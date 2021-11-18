@@ -1,3 +1,7 @@
+# Welcome!
+
+This repository holds my progress on a [React tutorial](https://reactjs.org/tutorial/tutorial.html) I am following. It is intended to fortify my knowledge in React so I may better understand the IBM Machine Learning eXchange project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
